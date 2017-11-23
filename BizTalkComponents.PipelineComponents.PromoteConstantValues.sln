@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalkComponents.PipelineC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalkComponents.PipelineComponents.PromoteConstantValues.Tests.UnitTests", "Tests\UnitTests\BizTalkComponents.PipelineComponents.PromoteConstantValues.Tests.UnitTests.csproj", "{DC6188DD-8D8F-4933-95EB-8DE20883EEAD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{6E5B58E8-B22D-48FE-9F67-FCDC366EFCAD}"
+	ProjectSection(SolutionItems) = preProject
+		Build\build.proj = Build\build.proj
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
