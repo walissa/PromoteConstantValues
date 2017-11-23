@@ -6,7 +6,7 @@
 		<ApplicationName>Shared</ApplicationName>
 		<ApplicationDescription></ApplicationDescription>
 		<SolutionName>$(ApplicationName)</SolutionName>
-		<SourceLocation>$(build_artifactstagingdirectory)\src\MessageRouter\bin\$(buildConfiguration)</SourceLocation>		
+		<SourceLocation>$(build_artifactstagingdirectory)\src\PromoteConstantValues\bin\$(buildConfiguration)</SourceLocation>		
 	</PropertyGroup>
 
 	<ItemGroup>
