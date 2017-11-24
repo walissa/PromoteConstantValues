@@ -23,7 +23,6 @@ namespace BizTalkComponents.PipelineComponents.PromoteConstantValues
     public partial class PromoteConstantValues : IComponent, IBaseComponent,
                                         IPersistPropertyBag, IComponentUI
     {
-        public string ConstantValue { get; set; }
         [DisplayName("PropertyValuePair Array")]
         [Description("Context properties to promote with their values {namespace1#property1,value1};{namesapce2#property2,value2};...")]
         [RegularExpression(@"^({.+?#.+?,.+?}(?:;|$))*",

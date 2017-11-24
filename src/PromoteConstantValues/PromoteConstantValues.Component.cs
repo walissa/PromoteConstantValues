@@ -12,9 +12,9 @@ namespace BizTalkComponents.PipelineComponents.PromoteConstantValues
 {
     public partial class PromoteConstantValues 
     {
-        public string Name { get { return "Promote Constant Value"; } }
+        public string Name { get { return "Promote Constant Values"; } }
         public string Version { get { return "1.0.0.0"; } }
-        public string Description { get { return "Promote Constant Value Component, used where fixed values need to be promoted"; } }
+        public string Description { get { return "Promote Constant Values Component, used where fixed values need to be promoted"; } }
 
         [Description("True to activate the component, false to skip over it.")]
         [DefaultValue(true)]

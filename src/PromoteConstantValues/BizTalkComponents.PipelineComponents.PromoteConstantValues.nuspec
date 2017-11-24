@@ -7,10 +7,10 @@
     <authors>waal</authors>
     <owners>waal</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>This component enables you to promote mulitiple properites with constant values.</description>
+    <description>This component enables you to promote multiple properties with constant values.</description>
     <copyright>Copyright 2017</copyright>
   </metadata>
   <files>
-    <file src=".\bin\release\BizTalkComponents.PipelineComponents.PromoteConstantValues.dll" target="lib\net45"/>
+    <file src="bin\release\BizTalkComponents.PipelineComponents.PromoteConstantValues.dll" target="lib\net45"/>
   </files>
 </package>
