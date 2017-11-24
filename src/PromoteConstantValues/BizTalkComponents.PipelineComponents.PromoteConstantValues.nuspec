@@ -2,13 +2,14 @@
 <package >
   <metadata>
     <id>BizTalkComponents.PipelineComponents.PromoteConstantValues</id>
-    <version>1.0.0</version>
-    <title>Promote Constant Values</title>
-    <authors>waal</authors>
+    <version>1.0.1</version>
+    <title>BizTalkComponents.PipelineComponents.PromoteConstantValues</title>
+    <authors>Wael Alissa</authors>
     <owners>waal</owners>
+    <projectUrl>https://github.com/walissa/PromoteConstantValues</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>This component enables you to promote multiple properties with constant values.</description>
-    <copyright>Copyright 2017</copyright>
+    <tags>BizTalkComponents pipelinecomponents</tags>
   </metadata>
   <files>
     <file src="bin\release\BizTalkComponents.PipelineComponents.PromoteConstantValues.dll" target="lib\net45"/>
